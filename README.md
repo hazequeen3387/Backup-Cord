@@ -2,7 +2,7 @@
 
 Easy to setup discord bot for restoring members
 
-Made By oxyn <3
+Made By oxyn#6795 and sully#2664 <3
 
 # Setup (Windows server)
 
